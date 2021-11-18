@@ -1,0 +1,19 @@
+Variables: 
+Una variable es una forma de almacenar un valor de algo para usar más tarde. Crear una variable sería como si de una estantería llena de cajones, tomáramos uno y guardáramos lo que quisiéramos, le pusiéramos un nombre y para usar el contenido de dicho 'cajón' tenemos que llamar al nombre de dicha variable.
+
+Strings: 
+Se le denomina Strings a los tipos de datos que contienen bloques de texto, ya sean palabras, letras o números. Cualquier texto entre comillas es una cadena o string ej: 
+Var saludo = ‘hola’;
+Var inicialNombre = ‘f’;
+Var documento = ’25.394.923’;
+
+Funciones (argumentos, return):
+Las funciones son como acciones empaquetadas y definidas. Ejemplo: Podríamos definir a correr como una función y dentro de esta función definimos las acciones para mover nuestro cuerpo para correr.
+Ya que dijimos que las funciones son acciones empaquetadas y definidas, se necesita una forma para interactuar con las acciones que se realizan dentro de estas, es allí donde entran en juego los argumentos y los return. Los argumentos nos sirven para ingresar valores dentro de una función y los return, devuelven los valores que nosotros necesitemos de dichas funciones. 
+
+Declaraciones if
+El operador de control de flujo y comparación IF, nos sirve para comparar si una afirmación es verdadera o no lo es, dándonos la opción de tomar varios caminos para 1 sola declaración. 
+
+Valores booleanos(true, false)
+
+Los valores booleanos son la forma de representar al estado que puede tomar un valor ya sean true o false. Para la toma de decisiones binarias. 
