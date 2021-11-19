@@ -1,0 +1,9 @@
+For
+Un bucle for nos permite repetir una determinada cantidad de veces las acciones que estén dentro del mismo, a diferencia de otros bucles en este se define en su estructura cuantas veces se repetirán las acciones que realizará. 
+
+&&
+El operador lógico 'Y' ('AND'). Nos permite evaluar si se cumplen más de una condición, si ambos son verdaderos, nos devuelve un true, pero si al menos uno es falso, devuelve false.
+||
+El operador lógico ‘O’ (‘or’). Nos permite evaluar si al menos una de las condiciones se cumple, nos devolverá un true, si ambas son falsas devuelve el valor false.
+!
+El operador lógico ‘NO’ (‘NOT’). Nos permite negar una afirmación, devolviendo el valor booleano opuesto de lo que le pasa. 
