@@ -1,0 +1,2 @@
+Arrays
+Los arrays o arreglos son contenedores de almacenamiento para colecciones de datos en forma de matriz. Podemos almacenar datos dentro de [ ], separados por comas.
