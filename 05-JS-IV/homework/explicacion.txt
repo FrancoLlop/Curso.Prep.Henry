@@ -1,0 +1,16 @@
+Objetos:
+En Javascript un objeto es una entidad independiente con propiedades y tipos. Compáralo con un auto, por ejemplo. Un auto es un objeto con propiedades. Un auto tiene un color, un diseño, un peso, un material del que está hecho, etc.
+
+Propiedades: 
+Las propiedades de un objeto definen las características del objeto.
+
+Métodos:
+En objetos, los valores se pueden establecer en funciones. Las funciones guardadas en un objeto se denominan métodos.ej: .length, .push, .pop, etc.
+
+Bucle for...in:
+La instrucción for-in (for in loop)itera sobre todas las propiedades enumerables de un objeto que está codificado por cadenas (ignorando los codificados por Símbolos, incluidas las propiedades enumerables heredadas.
+
+Notación de puntos vs notación de corchetes:
+En javascript, utilizamos los siguientes dos métodos para acceder a las propiedades del objeto
+1. Los puntos requieren que los siguientes operandos sean identificadores legales (es decir, nombres de variables legales) y no se pueden usar para los ilegales.
+2. Lo que requieren los corchetes es una cadena, no necesariamente un nombre de variable legal. Por ejemplo, 4p es un nombre de variable ilegal (porque comienza con un número), pero puede usarse como un nombre de atributo de objeto (siempre que sea una cadena)
